@@ -1,0 +1,1 @@
+# Lab-6-Pointers-Dynamic-Memory-Allocation
